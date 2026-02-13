@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tabla de tarea </title>
+  <meta charset="UTF-8">
+</head>
+<style type="text/css">
+
+    table,th,td{
+        border: 1px,solid black;
+        border-collapse: collapse;
+    }
+    th,td{
+        padding: 10px;
+    }
+    th{
+        text-align: left;
+    }
+</style>
+<body>
+<h1>Informacion de materias de 5 Semestre</h1>
+<table style="width: 100%;">
+    <tr>
+        <th>Informacion</th><th>Datos</th>
+    </tr>
+    <tr>
+        <td>Nombre de materia</td><td>Fundamentos web</td>
+    </tr>
+    <tr>
+        <td>Frecuensias semanales</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Grupo</td><td>51</td>
+    </tr>
+    <tr>
+        <td>Semestre</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Turno</td><td>matutino</td>
+    </tr>
+</table><br>
+
+
+<table style="width: 100%;"><br>
+    <tr>
+        <th>Informacion</th><th>Datos</th>
+    </tr>
+    <tr>
+        <td>Nombre de materia</td><td>Almacenes de datos</td>
+    </tr>
+    <tr>
+        <td>Frecuensias semanales</td><td>4</td>
+    </tr>
+    <tr>
+        <td>Grupo</td><td>51</td>
+    </tr>
+    <tr>
+        <td>Semestre</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Turno</td><td>matutino</td>
+    </tr>
+</table><br>
+
+
+<table style="width: 100%;"><br>
+    <tr>
+        <th>Informacion</th><th>Datos</th>
+    </tr>
+    <tr>
+        <td>Nombre de materia</td><td>Teoria de sistemas</td>
+    </tr>
+    <tr>
+        <td>Frecuensias semanales</td><td>2</td>
+    </tr>
+    <tr>
+        <td>Grupo</td><td>52</td>
+    </tr>
+    <tr>
+        <td>Semestre</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Turno</td><td>matutino</td>
+    </tr>
+</table><br>
+
+
+<table style="width: 100%;"><br>
+    <tr>
+        <th>Informacion</th><th>Datos</th>
+    </tr>
+    <tr>
+        <td>Nombre de materia</td><td>Analisis multivariante</td>
+    </tr>
+    <tr>
+        <td>Frecuensias semanales</td><td>4</td>
+    </tr>
+    <tr>
+        <td>Grupo</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Semestre</td><td>51</td>
+    </tr>
+    <tr>
+        <td>Turno</td><td>matutino</td>
+    </tr>
+</table><br>
+
+
+<table style="width: 100%;"><br>
+    <tr>
+        <th>Informacion</th><th>Datos</th>
+    </tr>
+    <tr>
+        <td>Nombre de materia</td><td>Derecho</td>
+    </tr>
+    <tr>
+        <td>Frecuensias semanales</td><td>3</td>
+    </tr>
+    <tr>
+        <td>Grupo</td><td>51</td>
+    </tr>
+    <tr>
+        <td>Semestre</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Turno</td><td>matutino</td>
+    </tr>
+
+</table><br>
+
+<table style="width: 100%;"><br>
+    <tr>
+        <th>Informacion</th><th>Datos</th>
+    </tr>
+    <tr>
+        <td>Nombre de materia</td><td>Analisis y procesos</td>
+    </tr>
+    <tr>
+        <td>Frecuensias semanales</td><td>3</td>
+    </tr>
+    <tr>
+        <td>Grupo</td><td>51</td>
+    </tr>
+    <tr>
+        <td>Semestre</td><td>5</td>
+    </tr>
+    <tr>
+        <td>Turno</td><td>matutino</td>
+    </tr>
+
+</table><br>
+</body>
+</html>
